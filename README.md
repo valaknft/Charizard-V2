@@ -12,11 +12,11 @@ Ils possède énormément de fonctionnalités toutes plus cool les unes que les 
 
 <h1>Nouveautées</h1>
 Les nouveautés (car c'est la V2 lol) : <br>
-Un Token Grabber Builder Avancé<br>
-Un Discord aio (all in one (un multitool))<br>
-Un IP Booter<br>
-Les tool sont maintenant dans plusieurs pages du tool pour faire plus joli<br>
-Et un accès direct au code source du token grabber builder et du discord aio (all in one (un multitool (oui j'av envie de le redire mdr)))<br>
+-Un Token Grabber Builder Avancé<br>
+-Un Discord aio (all in one (un multitool))<br>
+-Un IP Booter<br>
+-Les tool sont maintenant dans plusieurs pages du tool pour faire plus joli<br>
+-Et un accès direct au code source du token grabber builder et du discord aio (all in one (un multitool (oui j'av envie de le redire mdr)))<br>
 
 
 
